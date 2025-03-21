@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bizlogika-app",
+  "private_key_id": "56e16b501c91a6b839aa809560da8b417ede6d2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDR6Jdl0TMXiFuU\n/t7fuvXSk6nXZjux4MUhw4A39xMidDOaOhlUPlVNqSa0HdaC3RUsgqp5C8ZTXjnA\nGeDWmN087T5/GgGoe1wrzHvw/ptdqHMn7ERFmbhe3Z9Q1TD9tXegTX+j9L/z+BK8\n9ocGTxUmddIGNVVyaxMmR/ujMLtcgWobl8kw7A4LDfua+9N3GYOTzzic1/nDW5I5\n/O3NyLiE3A8mI6yCy96/GAYvahJhJzLUnpBtEw3lgf6gL4N6bRmPlZSPM7CQ0aFg\ntgf2jgWXsXtL/zejrEJRE82ms0/EgZ6zui6OpoP164AHkq3JDHW6NR49H68HIxd2\n9Xbi8hiPAgMBAAECggEAILH54wIS0zeKDEsmq/KTF5moesSRx8Ma8YdiEVWKxXMU\nFpG2IEkVQGN4g9Wh9AA7rBMuOmx7F8E1fZaKTuLAkxzg/yst1vBgCvJu27rMuGnk\nhfNnLvAip6QdjJmoZ9w8JdvsZb1ZqMabJJPBtFndEYCIli74gDntYakUqPaOOHon\nhJzs0zzvU/xeKHTC4jB5bWKunP+/ZcUz/K0+p4EnDQUJKNFbqnwByXfGI3BCkGhg\nxxZIgFBrM0LasoX7jwhmiQojYJvDtrtExVoKCTgL5uCg3F79Cm+EMd9QlGOsViZk\n/vPuH1aGRTm0KRNW57n/Z0Zd93k/Szsb/CmyZcRPAQKBgQD5X0nhaUEfoL5Pj1Z3\nfI75tLF96Qmb1AEBV5mnjj5PLP9IQ1ahGvGgd0Npm1KfJdTKbJF+NOa4aLw4qKJK\nuqwUkRrqidy43E7vhledqF0e57W9zfH1JzJ2el+2HZNm5qDhUJ03g41kdUZw9dpj\n7Rg5uL4eteudNDFSD+ooj2AuwwKBgQDXfMt2OJOYH2J6K0WTlCMf/oLyFVoX+nk3\nwkGvqKyN5zVMjqzU8HzYOYv+msCg9Tq0QcE+l9ljCalV4d3r+9fAV/EfuFILTdCm\nmjKxpZy1wu3nTEzSs4itTv3cdVtG6j+OtSV29h3MJfZHLNEqr2RoHJr6xGoRtjHK\nb7qwpaiqRQKBgQD3gvS5ntbcpZc/MG4KOr9OaWKiLmMzH8G/q0r/W9fMjkTzXKLn\nVO7u7nEiqN/gxpPmNsxSD//QmWP4eKhcs9uIrl2g3SUO9twCMb1U5n9G5YUl1vuI\n8FbN8bh98e0T/WVBPdpN92yngR9hjyQsem/JGuzZXod1iRBK+zDXATfeMQKBgBYa\nJLxRfUIDJhSlz5MdhKTJdCDkc8M1260ObbJYuKotZtgdYjjNGeELtgI9WTipLoZC\noFGNPazc1tOKQTrtL+n4mzDHtRKXvqj38+8or3QtND2fI9oQtBoimgM8vkn9yNsY\nVWloQRIpaqNOQ33/U2siU/sYnlCGwYCkCSAJPc2JAoGBAM2hWQIojnBfW8Y0+vj4\nokQtXUdIZR98MDIRTXgvG5Dt71RPA9ID2P+j8A4LD7WdYmn25lgVKw3IkbCoTxPF\n44xZ3b/vi/v4lfFIIrmqKuGXfmMfqHihBy2sb5yHWUIrselx4s5+QkknwqYllp4B\nFVzkq76qE6TyH6h0Z00dJmp9\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pr3bj@bizlogika-app.iam.gserviceaccount.com",
+  "client_id": "110452123761256131592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pr3bj%40bizlogika-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
